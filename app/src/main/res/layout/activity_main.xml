@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="horizontal"
+    android:background="@drawable/imeg1">
+
+
+
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn1"
+        android:text="Ok, let's go to my spaceship"
+        android:background="#3B444B"
+        android:textStyle="bold"
+        android:textColor="#FFBF00"
+        android:textSize="22sp"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="70dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+
+        />
+
+
+</LinearLayout>
